@@ -27,7 +27,6 @@ namespace WindowsFormsApp2
        static protected int diffY;
 
        int[,] Matrixa = new int[205, 205];
-       // int[][] nums = new int[3][];
 
        int[][] Neuro_1 = new int[41617][];
        int _count = 41617;
@@ -37,7 +36,7 @@ namespace WindowsFormsApp2
        int[] Force_x = new int[2];
        int[] Force_Y = new int[2];
        int[] Force_y = new int[2];
-      // int[] Force_1 = new int[42027];
+
 
        int _Xtop = 0;
        int _Ytop = 0;
